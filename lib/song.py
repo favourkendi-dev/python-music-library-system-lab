@@ -1,5 +1,5 @@
 class Song:
-    """A song with class-level tracking for counts, genres and artists."""
+    """A song with class-level tracking for counts, genres, and artists."""
 
     count = 0
     genres = []
